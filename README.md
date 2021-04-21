@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.clipartmax.com/png/middle/118-1186067_prometheus-software-logo-prometheus-monitoring.png" width="200"></p>
+<p align="center"><img src="https://img.reg.ru/faq/kak-ustanovit-sistemu-monitoringa-prometheus-240820-1.png" width="400"></p>
 
 ## Hello {$username}, here is my solution for the Scoro Tech Task ##
 
